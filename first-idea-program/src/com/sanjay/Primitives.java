@@ -6,6 +6,6 @@ public class Primitives {
 
         // String is not primitive;
         //primitive  data type is something  cannot be breakdown further
-        String name = "Kunal";
+        String name = "Sanjay";
     }
 }
