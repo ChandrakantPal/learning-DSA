@@ -13,5 +13,6 @@ public class Inputs {
         System.out.println(name);
 
         float marks = input.nextFloat();
+        System.out.println(marks);
     }
 }
