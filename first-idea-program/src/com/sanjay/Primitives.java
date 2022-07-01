@@ -5,5 +5,6 @@ public class Primitives {
         int rollno = 64;
         char letter = 's';
         float marks = 96.54f;
+        double largeDecimalNumbers = 67849030.045995;
     }
 }
