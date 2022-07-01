@@ -7,5 +7,6 @@ public class Primitives {
         float marks = 96.54f;
         double largeDecimalNumbers = 67849030.045995;
         long largeInteger = 987654367886789878L;
+        boolean check = true;
     }
 }
