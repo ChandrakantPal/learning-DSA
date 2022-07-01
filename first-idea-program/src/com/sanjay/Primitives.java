@@ -6,5 +6,6 @@ public class Primitives {
         char letter = 's';
         float marks = 96.54f;
         double largeDecimalNumbers = 67849030.045995;
+        long largeInteger = 987654367;
     }
 }
