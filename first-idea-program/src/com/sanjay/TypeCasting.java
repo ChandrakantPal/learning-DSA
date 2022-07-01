@@ -25,5 +25,7 @@ public class TypeCasting {
 //        byte b = 50;
 //        b = b*2;  this throws an error because while evaluating the expression it is converted to an int which cannot be reassigned to byte b
 
+        int number = 'A';
+        System.out.println(number); // results 65
     }
 }
