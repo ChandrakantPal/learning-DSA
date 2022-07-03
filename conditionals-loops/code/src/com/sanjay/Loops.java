@@ -11,7 +11,13 @@ public class Loops {
 
         int n = in.nextInt();
         for (int num = 1; num <= n; num++) {
-            System.out.print("Hello World");
+            System.out.println("Hello World");
+        }
+
+        int num = 1;
+        while (num<=5){
+            System.out.println(num);
+            num++;
         }
     }
 
