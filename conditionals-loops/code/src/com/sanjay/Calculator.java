@@ -34,6 +34,8 @@ public class Calculator {
 
             } else if (op == 'x' || op == 'X') {
                 break;
+            }else  {
+                System.out.println("Invalid operation!");
             }
         }
         System.out.println(ans);
