@@ -8,9 +8,11 @@ public class Calculator {
         int ans = 0;
         while (true) {
             // take the operator as input
+            System.out.println("Enter the operator: ");
             char op = in.next().trim().charAt(0);
             if (op == '+'||op == '-'||op == '/'||op == '%' || op == '*'){
                 // input two numbers
+                System.out.println("Enter two numbers: ");
                 int num1 = in.nextInt();
                 int num2 = in.nextInt();
 
