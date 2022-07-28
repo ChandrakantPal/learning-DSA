@@ -47,7 +47,7 @@ public class RotatedBinarySearch {
     }
 
     // this will not work for duplicate values
-    int findPivot(int[] arr) {
+    static int findPivot(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
         while (start <= end) {
